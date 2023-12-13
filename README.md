@@ -7,7 +7,8 @@
 
 
 <h2>Features</h2>
-- Product Listings
+
+ - Product Listings
 Browse through our extensive collection of products for men, women, and children. Each product listing includes detailed information, high-quality images, and specific categories to make your shopping experience easy and enjoyable.
 
 - Purchasing Products
