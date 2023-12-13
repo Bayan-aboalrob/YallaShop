@@ -1,7 +1,7 @@
 <h1>Yalla Shop Online Store</h1>
 
 <h2>Overview</h2>
-<p>Welcome to <b>Yalla Shop1</b> !, your one-stop destination for online shopping! This website has been carefully crafted using HTML5, CSS3, and JavaScript to <br>
+<p>Welcome to <b>Yalla Shop1</b> !, your one-stop destination for online shopping! This website has been carefully crafted using HTML5, CSS3, and JavaScript to 
   provide a seamless and enjoyable shopping experience. <br>
  <b>Yalla Shop</b>  caters to a diverse range of customers, offering a variety of products for men, women, and children.</p>
 
